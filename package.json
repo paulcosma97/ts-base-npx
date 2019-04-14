@@ -1,0 +1,9 @@
+{
+    "name": "@jeaks03/typescript-base",
+    "dependencies": {
+        "child_process": "*",
+        "@jeaks03/logger": "*"
+    },
+    "version": "1.0.2",
+    "bin": "./index.js"
+}
